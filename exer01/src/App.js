@@ -5,8 +5,8 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      nome: "Esmeraldo", 
-      sobrenome: "Carneiro"
+      nome: 'Esmeraldo', 
+      sobrenome: 'Carneiro'
     }
   }
 
@@ -26,8 +26,8 @@ class App extends React.Component {
   alterarNomeCompleto = () => {
     this.setState({
 
-      nome: "Euclides",
-      sobrenome: "Junior"
+      nome: 'Euclides',
+      sobrenome: 'Junior'
       
     });
   }
