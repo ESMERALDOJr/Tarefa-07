@@ -1,0 +1,15 @@
+button{
+  
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #06ff3c;
+	border-right-color: #06ff3c;
+	border-bottom-color: #06ff3c;
+	border-left-color: #06ff3c;
+	color: #FFFFFF;
+  background: rgb(1, 109, 197); 
+  
+}

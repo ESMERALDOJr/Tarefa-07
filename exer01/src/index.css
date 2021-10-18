@@ -1,0 +1,18 @@
+button {
+	font-weight: bold;
+	padding: 20px;
+	float: left;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #ff3806;
+	border-right-color: #ff3806;
+	border-bottom-color: #ff3806;
+	border-left-color: #ff3806;
+	color: #FFFFFF;
+	background: rgb(39, 157, 253);
+	margin-left: 70px;
+	font-size: 20px;
+}
